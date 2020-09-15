@@ -1,2 +1,2 @@
-# portfolio-project
-gotta learngithub&lt;3
+# portfolio
+Projekt 1 Changemaker Educations
